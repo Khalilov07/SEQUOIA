@@ -107,6 +107,8 @@
     justify-content: center;
   }
 
+  /* hello */
+
   .team__card {
     width: calc(40% - 10px);
   }
