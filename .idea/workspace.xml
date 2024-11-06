@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a881a59-911b-45bc-af90-cff68a0c5682" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2nviMzFMAuO6JmEH89iWCGYkgEd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\sequola\src\assets" />
+      <recent name="C:\Users\Admin\Desktop\sequola\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a881a59-911b-45bc-af90-cff68a0c5682" name="Default Changelist" comment="" />
+      <created>1729859906799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729859906799</updated>
+      <workItem from="1729859908318" duration="6354000" />
+      <workItem from="1729946112452" duration="2474000" />
+      <workItem from="1729949544011" duration="6978000" />
+      <workItem from="1730141997898" duration="7588000" />
+      <workItem from="1730190549636" duration="3652000" />
+      <workItem from="1730292121962" duration="4902000" />
+      <workItem from="1730378514349" duration="5082000" />
+      <workItem from="1730390452676" duration="590000" />
+      <workItem from="1730464686845" duration="2638000" />
+      <workItem from="1730534757548" duration="1533000" />
+      <workItem from="1730723435426" duration="6850000" />
+      <workItem from="1730742307443" duration="6027000" />
+      <workItem from="1730816464496" duration="286000" />
+      <workItem from="1730818269703" duration="12000" />
+      <workItem from="1730818420103" duration="8000" />
+      <workItem from="1730818662016" duration="11000" />
+      <workItem from="1730825061009" duration="48000" />
+      <workItem from="1730896883419" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1729956747397">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1729956747397" />
+  </component>
+</project>

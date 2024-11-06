@@ -1,0 +1,121 @@
+@media (max-width: 415px) {
+  .header {
+    position: static;
+    padding-top: 50px;
+  }
+  .header__nav {
+    gap: 50px;
+    flex-direction: column;
+  }
+  .header__left {
+    flex-direction: column;
+    align-items: center;
+  }
+  .header__links {
+    flex-direction: column;
+  }
+  .header__right {
+    justify-content: center;
+  }
+
+  .welcome__park {
+    width: 70%;
+  }
+  .welcome__goal {
+    font-size: 14px;
+  }
+  .welcome__another {
+    font-size: 26px;
+    text-align: center;
+  }
+  .welcome__sequoia {
+    font-size: 90%;
+  }
+  .seedling__tree {
+    display: none;
+  }
+  .seedling__content {
+    gap: 20px;
+    text-align: center;
+    flex-direction: column;
+  }
+  .seedling_title1 {
+    font-size: 50px;
+  }
+  .seedling_title2 {
+    margin-left: 0;
+    font-size: 50px;
+  }
+  .seedling__descr {
+    text-align: center;
+    display: inline-block;
+  }
+
+  .seedling__left {
+    width: 90%;
+    background: none;
+  }
+
+  .seedling__right {
+    width: 90%;
+  }
+
+  .each__row {
+    padding: 10px;
+  }
+
+  /* ctrl + / */
+  /* TOKEN */
+
+  .token__row {
+    justify-content: center;
+  }
+
+  .token__card {
+    width: 45%;
+  }
+
+  .value {
+    display: none;
+  }
+
+  /* COLLECTION */
+
+  .collection__top {
+    width: 95%;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .collection__bottom-row {
+    padding: 0 10px;
+  }
+
+  /* Roadmap */
+
+  .roadmap__content {
+    margin: 10px;
+  }
+
+  .swiper-slide {
+    width: 45% !important;
+  }
+
+  /* team */
+
+  .team__row {
+    justify-content: center;
+  }
+
+  .team__card {
+    width: calc(40% - 10px);
+  }
+
+  /* footer */
+
+  .footer__top {
+    gap: 30px;
+    flex-direction: column;
+  }
+
+}
