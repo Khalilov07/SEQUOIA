@@ -120,4 +120,12 @@
     flex-direction: column;
   }
 
+  /* TOKEN */
+
+  .tokenomics__content {
+    padding: 20px 30px;
+    text-align: center;
+    flex-direction: column;
+  }
+
 }
